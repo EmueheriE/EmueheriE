@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning frontend HTML,CSS,JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lemueher@gmail.com
+- 📫 How to reach me lemueheri@gmail.com
 
 <!---
 EmueheriE/EmueheriE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
